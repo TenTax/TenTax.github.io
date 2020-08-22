@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.652f76f9.chunk.css",
+    "main.js": "/static/js/main.ab4123c0.chunk.js",
+    "main.js.map": "/static/js/main.ab4123c0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.142d2794.js",
+    "runtime-main.js.map": "/static/js/runtime-main.142d2794.js.map",
+    "static/js/2.65d0f303.chunk.js": "/static/js/2.65d0f303.chunk.js",
+    "static/js/2.65d0f303.chunk.js.map": "/static/js/2.65d0f303.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.32c5b3969b99c56302b9919c1c27ab4e.js": "/precache-manifest.32c5b3969b99c56302b9919c1c27ab4e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.652f76f9.chunk.css.map": "/static/css/main.652f76f9.chunk.css.map",
+    "static/js/2.65d0f303.chunk.js.LICENSE.txt": "/static/js/2.65d0f303.chunk.js.LICENSE.txt",
+    "static/media/spinner.gif": "/static/media/spinner.3ee1f401.gif",
+    "static/media/BasketCard.module.css": "/static/media/trash.b78d98f8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.142d2794.js",
+    "static/js/2.65d0f303.chunk.js",
+    "static/css/main.652f76f9.chunk.css",
+    "static/js/main.ab4123c0.chunk.js"
+  ]
+}
